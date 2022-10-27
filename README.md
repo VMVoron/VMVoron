@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VMVoron
 - 👀 I’m interested in Data Science, Data Analytics
 - 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on ??
+- 💞️ I’m looking to collaborate on spatial analysis
 - 📫 To reach me send a message in Tlg @VMVoron
 
 <!---
